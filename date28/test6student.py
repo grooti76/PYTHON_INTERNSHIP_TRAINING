@@ -1,0 +1,8 @@
+f1 = input("ENter the student name")
+f2 = input("ENter the student name")
+f3 = input("ENter the student name")
+f4 = input("ENter the student name")
+f5 = input("ENter the student name")
+f6 = input("ENter the student name")
+list = (f1, f2, f3, f4, f5, f6)
+print(list)
