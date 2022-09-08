@@ -37,7 +37,7 @@ if __name__ == "__main__":
     centraLibrary = Library(["Python Programming", "DSA", "CG", "OS", "DBMS"])
     student = Student()
     while(True):
-        welcomeMsg = '''\n ====== Welcome to Central Library ======
+        welcomeMsg = '''\n ***** Welcome to Central Library *****
         Please choose an option:
         1. List all the books
         2. Request a book
