@@ -1,4 +1,5 @@
 fruits = []
 for i in range(7):
-    fruits.append(input())
+    k = i+1
+    fruits.append(input(f"Enter {k} fruit name:- "))
 print(fruits)
